@@ -1,3 +1,6 @@
+# My Personal Version of DSI flask-framework
+I am adding this to my Github as a requirement for the pre-bootcamp exercises.
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
